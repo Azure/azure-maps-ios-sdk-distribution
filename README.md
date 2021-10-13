@@ -1,14 +1,13 @@
 # Azure Maps Control SDK for iOS
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+## Installation
 
-As the maintainer of this project, please make a few updates:
+1. In your Xcode iOS Project settings, under Project setting’s Package Dependencies, click on + button to add package dependency.
+2. In the appeared dialog, in the search bar in the top right corner, insert https://github.com/Azure/azure-maps-ios-sdk-distribution.git, for the version field, fill `1.0.0-pre.1`.
+3. Wait until packages finish resolution, click on Add Package to complete the dependency setup.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+![image003](https://user-images.githubusercontent.com/14032724/137169668-381a7fd2-70a8-410c-9d3b-278d0a3ffb6b.png)
+![image004](https://user-images.githubusercontent.com/14032724/137169632-8c37fd3b-ef3a-4e8d-86e0-8ffcc16c93df.png)
 
 ## Contributing
 
