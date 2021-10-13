@@ -28,7 +28,7 @@ let package = Package(
         .binaryTarget(
             name: "AzureMapsControl",
             url: "https://github.com/Azure/azure-maps-ios-sdk-distribution/releases/download/1.0.0-pre.1/AzureMapsControl.xcframework.zip",
-            checksum: "1986b7bc8474652cbfd0aacba20ea28ec0b62293d5dc274b7396fb65b5d8d3bb"
+            checksum: "5a6f4b82885f21e108a3195d57d8c8305543229aee6a913b500a35b6a7b4e5a8"
         ),
         .target(
             name: "MapControlDependencies",
