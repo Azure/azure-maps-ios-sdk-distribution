@@ -1,4 +1,4 @@
-# Azure Maps Control SDK for iOS
+# Azure Maps Control for iOS
 
 ## Installation
 
