@@ -7,7 +7,7 @@
 3. Wait until packages finish resolution, click on Add Package to complete the dependency setup.
 
 ![image003](https://user-images.githubusercontent.com/14032724/137169668-381a7fd2-70a8-410c-9d3b-278d0a3ffb6b.png)
-![image004](https://user-images.githubusercontent.com/14032724/137169632-8c37fd3b-ef3a-4e8d-86e0-8ffcc16c93df.png)
+![Screen Shot 2021-10-25 at 1 50 10 PM](https://user-images.githubusercontent.com/14032724/138641489-b1f32f67-6a77-4221-b35c-560a7b13623d.png)
 
 ## Contributing
 
