@@ -16,7 +16,7 @@ let package = Package(
         .package(
             name: "MapLibre GL Native",
             url: "https://github.com/maplibre/maplibre-gl-native-distribution.git",
-            from: "5.12.0"
+            .exact("5.12.0")
         ),
         .package(
             name: "MSAL",
@@ -27,8 +27,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AzureMapsControl",
-            url: "https://github.com/Azure/azure-maps-ios-sdk-distribution/releases/download/1.0.0-pre.2/AzureMapsControl.xcframework.zip",
-            checksum: "48c43b4a8c1b196ba39984159d0f6b28fc92c8722d52ee377c02a0c7a286c125"
+            url: "https://github.com/Azure/azure-maps-ios-sdk-distribution/releases/download/1.0.0-pre.3/AzureMapsControl.xcframework.zip",
+            checksum: "1e45c519faf6dce423752d1f86594718c202cf680af65a47289af6967600811a"
         ),
         .target(
             name: "MapControlDependencies",

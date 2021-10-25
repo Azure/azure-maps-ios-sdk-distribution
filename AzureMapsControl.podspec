@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "AzureMapsControl"
-    s.version      = "1.0.0-pre.1"
+    s.version      = "1.0.0-pre.3"
     s.summary      = "Azure Maps iOS SDK Control"
     s.homepage     = "https://azure.microsoft.com/en-us/services/azure-maps/#azuremaps-overview"
     s.license      = "MIT"
