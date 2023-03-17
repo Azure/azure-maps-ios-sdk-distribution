@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
     s.platform = :ios
     s.swift_version = 5
-    s.ios.deployment_target = "13.0"
+    s.ios.deployment_target = "14.0"
 
     s.dependency "MSAL"
 end
